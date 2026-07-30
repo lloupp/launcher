@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Build output
+dist/
+build/
+*.dll
+*.exe
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+.parcel-cache/
+.next/
+
+# Environment
+.env
+.env.local
+
+# Databases (local dev)
+*.db
+*.db-shm
+*.db-wal
+
+# Secrets
+creds/
+*.dpapi
